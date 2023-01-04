@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map for 107-Arduino-APDS-9950
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+ArduinoAPDS_9950	KEYWORD1
+APDS_9950	KEYWORD1
+APDS_9950_Io	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+angle_raw	KEYWORD2
+read	KEYWORD2
+write	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+APDS_9950_ClearErrorFlag	LITERAL1
+APDS_9950_ProgrammingControl	LITERAL1
+APDS_9950_OTP_RegisterZeroPosition_HIGH	LITERAL1
+APDS_9950_OTP_RegisterZeroPosition_LOW	LITERAL1
+APDS_9950_Diagnostics_AutomaticGainControl	LITERAL1
+APDS_9950_Magnitude	LITERAL1
+APDS_9950_Angle	LITERAL1
